@@ -1,4 +1,4 @@
-# bibtex ![Build Status](https://github.com/nickng/bibtex/actions/workflows/test.yml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/nickng/bibtex.svg)](https://pkg.go.dev/github.com/nickng/bibtex)
+# bibtex ![Build Status](https://github.com/Jblew/bibtex/actions/workflows/test.yml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/Jblew/bibtex.svg)](https://pkg.go.dev/github.com/Jblew/bibtex)
 
 ## `nickng/bibtex` is a bibtex parser and library for Go.
 
@@ -8,10 +8,10 @@ Please file any issues with a minimal working example.
 
 To get:
 
-    go get -u github.com/nickng/bibtex/...
+    go get -u github.com/Jblew/bibtex/...
 
 This will also install `prettybib`, a bibtex pretty printer.
 To parse and pretty print a bibtex file, for example:
 
-    cd $GOPATH/src/github.com/nickng/bibtex
+    cd $GOPATH/src/github.com/Jblew/bibtex
     prettybib -in example/simple.bib

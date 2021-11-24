@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/BurntSushi/toml"
-	"github.com/nickng/bibtex"
+	"github.com/Jblew/bibtex"
 )
 
 var (

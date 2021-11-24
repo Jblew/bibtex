@@ -21,4 +21,4 @@
 // with a minimal working example at the GitHub repository.
 // http://maverick.inria.fr/~Xavier.Decoret/resources/xdkbibtex/bibtex_summary.html
 //
-package bibtex // import "github.com/nickng/bibtex"
+package bibtex // import "github.com/Jblew/bibtex"
